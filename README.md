@@ -1,6 +1,6 @@
 ![Manufacturing](https://github.com/sourceduty/Manufacturing_Source/assets/123030236/f7dee708-f016-4ffd-84b9-3190e15160e2)
 
-> Source manufacturers for production of finished goods. Upload a design image.
+> Source manufacturers for production of finished goods and parts. Upload a design image.
 
 #
 
