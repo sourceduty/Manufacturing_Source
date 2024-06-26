@@ -9,7 +9,7 @@
 "Manufacturing Source" can help by offering personalized advice on selecting the most suitable materials and production methods for your product. Whether you need a manufacturer for a small batch of custom parts or a large-scale production run, we guide you through the process, taking into account factors such as cost, lead time, and quality standards. We stay updated with the latest industry trends, standards, and innovations, ensuring that our recommendations are current and relevant. Additionally, we prioritize connecting you with verified manufacturers who have a proven track record of meeting industry standards and delivering high-quality products. Our goal is to make the manufacturing sourcing process seamless and efficient, helping you bring your product ideas to life with confidence.
 
 #
-### Exampe Usage
+### Example Usage
 
 ![Trunk Spoiler](https://github.com/sourceduty/Manufacturing_Source/assets/123030236/62d5b9f5-dbb4-4dda-9578-562359bb1bf6)
 
